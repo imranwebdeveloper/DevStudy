@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "category": "Web Development",
+    "courseName": "Introduction to Web Development",
+    "shortDes": "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!",
+    "thumbnail": "https://i.ibb.co/Ch5yr6z/1.jpg",
+    "instructor": "Dollar Design School",
+    "description": "Are you Interested in Learning Web Development? Enroll in this course for a Dynamic Introduction to the Profession!",
+    "rating": "4.6",
+    "student": "2500",
+    "price": 15,
+    "updated": "10/2022",
+    "outline": [
+      "Understand the technologies used in web development",
+      "Identify the tools used by web developers",
+      "Apply HTML document structure",
+      "Write HTML allowing you to display a simple web page",
+      "Add images to a web page",
+      "Understand the role of CSS in web development",
+      "Understand the HTML/CSS color model",
+      "Apply colors to web page elements",
+      "Alter CSS text properties",
+      "Understand and apply the basics of the CSS box model",
+      "Know the role of Javascript programming in web development",
+      "Integrate rewritten Javascript code",
+      "Create a basic Javascript program to collect data",
+      "Use Javascript to adjust the appearance of page elements"
+    ],
+    "include": [
+      "45 hours on-demand video",
+      "1 article",
+      "10 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Web Development",
+    "courseName": "Kids Coding - Introduction to HTML, CSS and JavaScript!",
+    "shortDes": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+    "thumbnail": "https://i.ibb.co/SxF6036/21.jpg",
+    "instructor": "John Burra",
+    "description": "This course helped me a lot for programming, convinced me to do programming and made me understand programming with some fun in it! Overall I don't need to go back and watch any of the courses vids since its explained in detail! Love it!!! This course helped me a lot for programming, convinced me to do programming and made me understand programming with some fun in it! Overall I don't need to go back and watch any of the courses vids since its explained in detail! Love it!!!",
+    "rating": "4.2",
+    "student": "2250",
+    "price": 35,
+    "updated": "09/2022",
+    "outline": [
+      "Learn the basics of computer programming",
+      "Learn HTML",
+      "Learn CSS",
+      "Learn JavaScript"
+    ],
+    "include": [
+      "45 hours on-demand video",
+      "1 article",
+      "10 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion",
+      "By the end of the course, students will know the basics of a valuable life long skill"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Web Development",
+    "courseName": "The Complete 2020 Fullstack Web Developer Course",
+    "shortDes": "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!",
+    "thumbnail": "https://i.ibb.co/2c81sfC/3.jpg",
+    "instructor": "Kalop Taulien ",
+    "description": "This was the first Complete Web Development course on Udemy. It's extremely comprehensive and I explain EVERYTHING you need to know, step by step. There's a reason why there are so many Complete Web Development courses on Udemy today -- they took what worked and made spin off courses. Join over 80,000 other students in this massive course! This course is designed for every skill level. Whether you're just learning web development today, or you're already a Python Pro, there's lots to learn for everybody! ",
+    "rating": "4.7",
+    "student": "3250",
+    "price": 45,
+    "updated": "10/2022",
+    "outline": [
+      "Updated for 2020",
+      "Learn Python from beginner to advanced",
+      "Learn JavaScript (ES6+)",
+      "Get a free CSS3 eBook",
+      "Lots of projects, big and small!",
+      "Learn Git and Github",
+      "Create a portfolio page and launch it",
+      "Learn JavaScript from scratch",
+      "Learn PHP for server code execution",
+      "Learn MySQL for saving data (databases)",
+      "How to get a job as a web developer",
+      "Learn the LAMP Stack: Linux, Apache, PHP and MySQL"
+    ],
+    "include": [
+      "15 hours on-demand video",
+      "1 article",
+      "15 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Mobile App Development",
+    "courseName": "Mobile Development Architecture",
+    "shortDes": "Native Apps, Web Apps, Progressive Web Apps, Hybrid Apps, Web-Native Apps or Cross-Compiled Apps. Learn how to choose",
+    "thumbnail": "https://i.ibb.co/ZcCkWzb/4.jpg",
+    "instructor": "Jose Berardo",
+    "description": "This is an introduction the mobile development world. Java, Kotlin, Swift, Objective-C, React Native, Nativescript, Cordova, PhoneGap, Ionic, PWAs, Angular, Vue. The number of different technologies claiming to be the easiest or the most efficient way to build apps for mobile devices is overwhelming. This course is an effort to group them into architectural tiers to help you understand similarities and specificities of each one. At the end, you will not be able to create your app, but to understand what they can provide you. You might find good tips to both start your next app and organise a learning path to kick off your mobile developer career.",
+    "rating": "4.1",
+    "student": "1550",
+    "price": 120,
+    "updated": "09/2022",
+    "outline": [
+      "Find the best fit for their next project",
+      "Have a clear big picture over mobile development solutions",
+      "Have a solid understanding of how mobile technologies compare",
+      "Find good strategy for deep diving into new learnings"
+    ],
+    "include": [
+      "45 hours on-demand video",
+      "1 article",
+      "10 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion",
+      "By the end of the course, students will know the basics of a valuable life long skill"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Mobile App Development",
+    "courseName": "The Complete Flutter UI Masterclass | iOS, Android, & Web",
+    "shortDes": "Learn how to build beautiful and responsive iOS, Android, and Web user interfaces using Flutter and Dart!",
+    "thumbnail": "https://i.ibb.co/z4ZMFmf/5.jpg",
+    "instructor": "Marcus NG",
+    "description": "As a mobile app developer, you understand the importance of implementing clean and intuitive UI. It is essential to crafting the best user experience possible. With Flutter, we have the power to build responsive interfaces for mobile and web with a single codebase.",
+    "rating": "4.9",
+    "student": "2510",
+    "price": 100,
+    "updated": "09/2022",
+    "outline": [
+      "Build beautiful mobile and web UI with Flutter and Dart",
+      "Learn how to implement basic and advanced Flutter widgets",
+      "Design and implement your own custom widgets",
+      "Visualize data with Flutter",
+      "Find good strategy for deep diving into new learnings"
+    ],
+    "include": [
+      "15 hours on-demand video",
+      "1 article",
+      "10 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion",
+      "By the end of the course, students will know the basics of a valuable life long skill"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Mobile App Development",
+    "courseName": "Become A Mobile App Developer (iOS / Android / Windows)",
+    "shortDes": "Build Mobile Apps Step by Step For iOS,Android,Windows from scratch",
+    "thumbnail": "https://i.ibb.co/S5ZbPVw/61.jpg",
+    "instructor": "Bluelime Learning Solutions",
+    "description": "Mobile app development can be both profitable and fun. In this beginners introductory course you will learn to create and deploy an app to a physical device. You learn how to setup development environments for iOS, Android and windows app development. We will be using the MVC ( Model View Controller) design pattern which is commonly used in IOS app development and  the Xcode integrated development environment to develop an app to run on an apple device. Xcode comes with virtual devices that you can use to test your app. The swift programming language is used to develop iOS mobile apps. The course covers some basic swift programming fundamentals.",
+    "rating": "4.8",
+    "student": "3510",
+    "price": 75,
+    "updated": "10/2022",
+    "outline": [
+      "Setting up development environment for Android",
+      "Setting up development environment for iOS",
+      "Design and implement your own custom widgets",
+      "Visualize data with Flutter",
+      "Find good strategy for deep diving into new learnings"
+    ],
+    "include": [
+      "25 hours on-demand video",
+      "1 article",
+      "10 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion",
+      "By the end of the course, students will know the basics of a valuable life long skill"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Programming Language",
+    "courseName": "Learn Python: The Complete Python Programming Course",
+    "shortDes": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+    "thumbnail": "https://i.postimg.cc/sxdfrnd0/7.jpg",
+    "instructor": "Avinash Jain",
+    "description": "Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.",
+    "rating": "4.5",
+    "student": "1510",
+    "price": 95,
+    "updated": "10/2022",
+    "outline": [
+      "Create their own Python Programs",
+      "Become an experienced Python Programmer",
+      "Parse the Web and Create their own Games",
+      "Find good strategy for deep diving into new learnings"
+    ],
+    "include": [
+      "35 hours on-demand video",
+      "10 article",
+      "15 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Programming Language",
+    "courseName": "Java Programming Masterclass covering Java 11 & Java 17",
+    "shortDes": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+    "thumbnail": "https://i.postimg.cc/gjVzkvGc/8.jpg",
+    "instructor": "Tim Buchalke Academy",
+    "description": "This course is designed to give you the Java skills you need to get a job as a Java developer.  By the end of the course, you will understand Java extremely well and be able to build your own Java apps and be productive as a software developer. Lots of students have been successful in getting their first job or promotion after going through the course. Here is just one example of a student who lost her job and despite having never coded in her life previously, got a full-time software developer position in just a few months after starting this course.  She didn't even complete the course!",
+    "rating": "4.2",
+    "student": "2510",
+    "price": 45,
+    "updated": "10/2022",
+    "outline": [
+      "Learn the core Java skills needed to apply for Java developer positions in just 14 hours.",
+      "Be able to sit for and pass the Oracle Java Certificate exam if you choose.",
+      "Be able to demonstrate your understanding of Java to future employers.",
+      "Obtain proficiency in Java 8 and Java 11.",
+      "Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more."
+    ],
+    "include": [
+      "14.3 hours on-demand video",
+      "10 article",
+      "15 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Machine Learning",
+    "courseName": "Machine Learning and Deep Learning Bootcamp in Python",
+    "shortDes": "Machine Learning, Neural Networks, Computer Vision, Deep Learning and Reinforcement Learning in Keras and TensorFlow",
+    "thumbnail": "https://i.postimg.cc/9XZFpjy3/9.jpg",
+    "instructor": "Holczer Balazs",
+    "description": "This course is about the fundamental concepts of machine learning, deep learning, reinforcement learning and machine learning. These topics are getting very hot nowadays because these learning algorithms can be used in several fields from software engineering to investment banking.",
+    "rating": "4.2",
+    "student": "25010",
+    "price": 145,
+    "updated": "8/2022",
+    "outline": [
+      "Solving regression problems (linear regression and logistic regression)",
+      "Solving classification problems (naive Bayes classifier, Support Vector Machines - SVMs)",
+      "The most up to date machine learning techniques used by firms such as Google or Facebook",
+      "TensorFlow and Keras",
+      "Face detection with OpenCV",
+      "Reinforcement learning - Q learning and deep Q learning approaches"
+    ],
+    "include": [
+      "22 hours on-demand video",
+      "19 article",
+      "25 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Machine Learning",
+    "courseName": "Complete Machine Learning & Data Science Bootcamp 2022",
+    "shortDes": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas & more!",
+    "thumbnail": "https://i.postimg.cc/gkpctBKx/10.jpg",
+    "instructor": "Andrei Neagoie",
+    "description": "Learn Data Science and Machine Learning from scratch, get hired, and have fun along the way with the most modern, up-to-date Data Science course on Udemy (we use the latest version of Python, Tensorflow 2.0 and other libraries). This course is focused on efficiency: never spend time on confusing, out of date, incomplete Machine Learning tutorials anymore. We are pretty confident that this is the most comprehensive and modern course you will find on the subject anywhere (bold statement, we know).",
+    "rating": "4.3",
+    "student": "5010",
+    "price": 45,
+    "updated": "9/2022",
+    "outline": [
+      "Become a Data Scientist and get hired",
+      "Deep Learning, Transfer Learning and Neural Networks using the latest Tensorflow 2.0",
+      "Present Data Science projects to management and stakeholders",
+      "Implement Machine Learning algorithms",
+      "Face detection with OpenCV",
+      "How to improve your Machine Learning Models"
+    ],
+    "include": [
+      "24 hours on-demand video",
+      "9 article",
+      "25 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Game Development",
+    "courseName": "How to improve your Machine Learning Models",
+    "shortDes": "Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",
+    "thumbnail": "https://i.postimg.cc/dt9sbmW4/11.jpg",
+    "instructor": "Gray Pettie",
+    "description": "earn how to create video games using Unity, the world-leading free-to-use game development tool. We start super simple so you need no prior experience of Unity or coding! With our online tutorials, you'll be amazed what you can achieve right from the first moment you start the course",
+    "rating": "4.4",
+    "student": "3010",
+    "price": 65,
+    "updated": "10/2022",
+    "outline": [
+      "Learn C#, a powerful modern language, from scratch. No prior programming experience is necessary.",
+      "Become excellent at using the Unity game engine.",
+      "Build a solid foundation for game design and game development that will help you build your own games.",
+      "Learn how object oriented programming works in practice.",
+      "Develop highly transferable coding problem solving skills.",
+      "Be part of an amazing and supportive community of people similar to you."
+    ],
+    "include": [
+      "44 hours on-demand video",
+      "7 article",
+      "55 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Game Development",
+    "courseName": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+    "shortDes": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 5 video games in Unreal",
+    "thumbnail": "https://i.postimg.cc/vZHYbgkM/12.jpg",
+    "instructor": "Sam Pattuzzi",
+    "description": "Learn how to create and mod video games using Unreal Engine 5, even if you're a complete beginner. Unreal is a free-to-use game development engine used by AAA studios and indie developers worldwide. It is a massive and powerful beast, but we break it down step-by-step so you can tame it.",
+    "rating": "4.4",
+    "student": "1510",
+    "price": 55,
+    "updated": "10/2022",
+    "outline": [
+      "How to make games in Unreal Engine 5.",
+      "Become excellent at using the Unity game engine.",
+      "C++, the games industry standard language.",
+      "Object Oriented Programming and how to put it into practice.",
+      "Game design principles.",
+      "Programming patterns and best practices."
+    ],
+    "include": [
+      "35 hours on-demand video",
+      "17 article",
+      "25 downloadable resources",
+      "Full lifetime access",
+      "Access on mobile and TV",
+      "Certificate of completion"
+    ]
+  }
+]
