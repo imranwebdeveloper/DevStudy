@@ -1,12 +1,9 @@
 import React, { useContext } from "react";
-import { useLocation, useNavigate } from "react-router-dom";
 import Container from "../components/common/Container";
 import { CoursesContext } from "../context/CourseContextProvider";
 
 const Checkout = () => {
   const { cart } = useContext(CoursesContext);
-  const location = useLocation();
-  console.log(location);
   return (
     <Container CS="py-6">
       <div className="lg:col-span-2 col-span-3 bg-slate-100 dark:bg-slate-800 max-w-[700px]  mx-auto px-4 md:px-12 py-6  rounded">

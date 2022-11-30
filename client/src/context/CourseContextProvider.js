@@ -8,7 +8,7 @@ const CourseContextProvider = ({ children }) => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("https://server-one-beryl.vercel.app/courses");
+      const res = await fetch("https://dev-study-server.vercel.app/courses");
       const data = await res.json();
       const categories = ["All", ...new Set(data.map((item) => item.category))];
       setCourses(data);

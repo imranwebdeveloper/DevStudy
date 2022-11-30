@@ -28,7 +28,7 @@ export const router = createBrowserRouter([
         path: "courses/:id",
         element: <Details />,
         loader: async ({ params }) =>
-          fetch(`https://server-one-beryl.vercel.app/courses/${params.id}`),
+          fetch(`https://dev-study-server.vercel.app/courses/${params.id}`),
       },
       {
         path: "checkout/:id",

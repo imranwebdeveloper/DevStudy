@@ -6,7 +6,7 @@ const Categories = () => {
   const categoryHandler = (item) => {
     const lowercase = item.toLowerCase();
     const id = lowercase.split(" ").join("-");
-    fetch(`https://server-one-beryl.vercel.app/categories/${id}`)
+    fetch(`https://dev-study-server.vercel.app/categories/${id}`)
       .then((res) => res.json())
       .then((data) => setCourses(data))
       .catch((e) => console.log(e));
